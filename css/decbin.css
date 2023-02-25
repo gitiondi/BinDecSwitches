@@ -1,3 +1,20 @@
+#bulbs {
+  width:100%;
+  text-align:center;
+}
+#bulbs > div {
+  width: 60px;
+  display: inline-block;
+  vertical-align: top;   
+  /* border:1px solid red; */
+  text-align:center;
+  margin:30px;    
+  padding:10px;
+  font-size: 20pt;
+  font-weight: bold;
+  color: green;
+}
+
 #container {
     width:100%;
     text-align:center;
